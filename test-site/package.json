@@ -11,7 +11,7 @@
     "format": "prettier --write 'src/**/*.{ts,tsx,md}'"
   },
   "dependencies": {
-    "gatsby": "^4.0.0",
+    "gatsby": "^4.14.0",
     "gatsby-plugin-image": "^2.0.0",
     "gatsby-plugin-prismic-previews": "link:../packages/gatsby-plugin-prismic-previews",
     "gatsby-source-filesystem": "^4.0.0",
